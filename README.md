@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Haponer
+- 💻 Exploring the world of data analysis, programming, and artificial intelligence.
+- 📊 Passionate about turning data into actionable insights and innovative solutions.
+- 🌱 Currently learning [specific languages or tools, e.g., HTML, Js, CSS].
+- 🚀 Striving to grow in Data Science and contribute to impactful projects.
+- 📚 Always eager to learn, collaborate, and share knowledge.
